@@ -19,7 +19,7 @@ Develop a Splunk SOAR App that interact with [SEKOIA.IO](http://SEKOIA.IO) CTI.
 
 ## Authentication
 
-To interact with the [SEKOIA.IO](http://SEKOIA.IO) API, use an API key.
+To interact with the [SEKOIA.IO](http://SEKOIA.IO) API,  use an API key.
 
 see [this documentation](https://docs.sekoia.io/cti/features/integrations/api/) for more information
 
